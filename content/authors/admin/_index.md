@@ -110,7 +110,7 @@ languages:
 awards:
   - title: KR Early Career Award
     url: https://kr.org/prizes.html
-    date: '2023-09-2'
+    date: '2023-09-02'
     awarder: Principles of Knowledge Representation and Reasoning, Incorporated (KR Inc.)
     icon: 
   - title: Thesis Award in Artificial Intelligence  

@@ -68,16 +68,6 @@ sections:
         exclude_featured: true
     design:
       view: citation
-  #- block: collection
-  #  id: talks
-  #  content:
-  #    title: Recent & Upcoming Talks
-  #    filters:
-  #      folders:
-  #        - event
-  #  design:
-  #    view: article-grid
-  #    columns: 1
 - block: text
   id: news
   content:

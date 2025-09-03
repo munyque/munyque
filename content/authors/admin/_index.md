@@ -123,5 +123,5 @@ awards:
 
 ## About Me
 
-I am a postdoctoral researcher at CNRS-LIPN, affiliated with Université Sorbonne Paris Nord. My research focuses on logics and formal methods for strategic reasoning, modelling, and verification in Multi-Agent Systems. I investigate quantitative, stochastic, and imperfect-information aspects of strategic and temporal logics, with application to mechanism design. 
+I am a postdoctoral researcher at CNRS-LIPN, affiliated with Université Sorbonne Paris Nord. 
 

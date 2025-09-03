@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      #button:
+      #  text: Download CV
+      #  url: uploads/resume.pdf
     design:
       css_class: dark
       # Avatar customization
@@ -39,24 +39,22 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My research focuses on logics and formal methods for strategic reasoning, modelling, and verification in Multi-Agent Systems. 
         
-        Please reach out to collaborate 😃
+        I investigate quantitative, stochastic, and imperfect-information aspects of strategic and temporal logics, with application to mechanism design. 
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+  #- block: collection
+  #  id: papers
+  #  content:
+  #    title: Featured Publications
+  #    filters:
+  #      folders:
+  #        - publication
+  #      featured_only: true
+  #  design:
+  #    view: article-grid
+  #    columns: 2
   - block: collection
     content:
       title: Recent Publications
@@ -107,7 +105,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
   - block: cta-card
-    demo: true # Only display this section in the Hugo Blox Builder demo site
+    demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
       title: 👉 Build your own academic website like this
       text: |-

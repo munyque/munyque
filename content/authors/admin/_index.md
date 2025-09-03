@@ -3,7 +3,7 @@
 title: Munyque Mittelmann, PhD
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Munyque
@@ -25,7 +25,7 @@ highlight_name: true
 # Role/position/tagline
 role: Reseacher
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in Biography block 
 organizations:
   - name: CNRS, LIPN, Université Sorbonne Paris Nord
     url: https://lipn.univ-paris13.fr/
@@ -42,9 +42,9 @@ profiles:
     url: https://scholar.google.com/citations?user=OH3kv1YAAAAJ&hl=en-EN
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-4664-8406
- - icon: academicons/researchgate
+  - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Munyque_Mittelmann
- - icon: academicons/dblp
+  - icon: academicons/dblp
     url: https://dblp.org/pid/241/5539.html
 
 interests:
@@ -113,14 +113,12 @@ awards:
     date: '2023-09-2'
     awarder: Principles of Knowledge Representation and Reasoning, Incorporated (KR Inc.)
     icon: 
-
   - title: Thesis Award in Artificial Intelligence  
     url: https://afia.asso.fr/les-prix-de-these-en-intelligence-artificielle/
     date: '2023-07-03'
     awarder:  French Association for AI
-    icon: 
-    
-    
+    icon:   
+
 ---
 
 ## About Me
